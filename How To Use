@@ -7,3 +7,7 @@ And your image get popped up with rectangled faces.
 *Make sure that your image file is in same location as the file "detect.py"*
 *If your image is not located in same location as "detect.py", then pass the image name with exact location
   like "/home/ciphereck/filename.jpg". *
+  
+  
+  * For using with Webcam enter command in terminal :-
+  "python detect_webcam.py" without quotes. *
